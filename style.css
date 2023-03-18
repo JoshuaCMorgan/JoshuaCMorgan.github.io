@@ -1,0 +1,17 @@
+
+html {
+		box-sizing: border-box;
+	}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+img {
+  width: 120px;
+  height: 100px;
+}
+
+ul {
+  list-style: none;
+}
